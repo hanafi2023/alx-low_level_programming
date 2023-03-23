@@ -1,6 +1,6 @@
 /*
  * File: 2-mul.c
- * Author: Safiya Hanafi 
+ * Author: Safiya Hanafi
  */
 
 #include "main.h"
